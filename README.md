@@ -1,22 +1,20 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# EF - EFICIÊNCIA FINANCERIA
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+Este projeto tem como objetivo desenvolver um sistema de gestão financeira que centralize contas,  despesas, investimentos e metas financeiras em uma única plataforma,  oferecendo relatórios, alertas, e suporte personalizado para melhorar a saúde  financeira dos usuários
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* Derick Lucas Alves Rodrigues
+* Lucas Ferreira Guedes
+* Matheus Antônio Valentin Freitas
+* Thais Alves Silva
+* Vinicius Celio Fontes Ribeiro
 
 ## Professor responsável
 
-* Nome do(a) professor(a)
+* Amália Soares Vieria de Vasconcelos
 
 ## Gerenciamento do Projeto
 
