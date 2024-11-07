@@ -167,31 +167,20 @@
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        |  NSA      |     10     |  R$ 100,00   | R$ 1.000,00 |
+| Hardware                |  NSA      |     100    |  R$ 250,00   | R$ 2.500,00 |
+| Serviços de Rede        |  NSA      |     250    |  R$ 125,00   | R$ 31.500,00|
+| Hospedagem e Nuvem      |  NSA      |     250    |  R$ 125,00   | R$ 31.000,00|
+| Software de terceiros   |  NSA      |     50     |  R$ 320,00   | R$ 16.000,00|
+| Serviços e treinamento  |  NSA      |     100    |  R$ 280,00   | R$ 28.000,00|
+| **Total Geral**         |  NSA      |     760    |  R$ 1.075,00 |R$ 110.000,00|
 
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 100 horas
+* Data de início: 01 / 08 / 2024
+* Data de término: 01 / 12 / 2024
 
 ## Escopo Preliminar e Premissas
 
@@ -273,14 +262,13 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|ID    | Descrição de Condições para Início do Projeto                              | 
+|------|----------------------------------------------------------------------------|
+|CI-001| Assinatura de contrato de prestação de serviços.                           |
+|CI-002| Aprovação do orçamento e prazo                                             |
+|CI-003| Disponibilidade dos recursos de desenvolvimento e infraestrutura necessária| 
 
 ## Marcos Agendados e Entregas
 
