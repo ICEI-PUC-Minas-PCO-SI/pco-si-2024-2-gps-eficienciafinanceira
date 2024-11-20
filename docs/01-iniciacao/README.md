@@ -116,13 +116,6 @@ Impacto Mensurável: O impacto do aplicativo será medido pela melhora relatada 
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
 
 ```diff
 + Tarefa 01
