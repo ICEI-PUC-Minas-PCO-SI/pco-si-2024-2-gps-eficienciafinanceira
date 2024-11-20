@@ -47,7 +47,7 @@ Encerramento: Revisar os resultados do projeto e documentar as lições aprendid
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Estrutura Analítica do Projeto - Editável]([https://app.diagrams.net/#G1bQSXLYWLiowlWbX1nLE5eqmxqZTj3DsJ#%7B%22pageId%22%3A%22QFYPgByo6CgZOsBWS8I_%22%7D])
+- Estrutura Analítica do Projeto - Editável (https://app.diagrams.net/#G1bQSXLYWLiowlWbX1nLE5eqmxqZTj3DsJ#%7B%22pageId%22%3A%22QFYPgByo6CgZOsBWS8I_%22%7D)
 
 ```diff
 + Tarefa 04:
