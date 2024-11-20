@@ -312,28 +312,40 @@ As sprints terão duração de duas semanas, com entregas incrementais para perm
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> As tarefas serão divididas com base nas especializações técnicas e na capacidade de cada membro.
+As tarefas serão divididas com base nas especializações técnicas e na capacidade de cada membro.
 A equipe será autogerenciada, garantindo autonomia no desenvolvimento das atividades.
 
 ## Ferramentas
 
 ......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
+itHub Project:
+
+Utilizado para o gerenciamento das tarefas, o acompanhamento do progresso do projeto e o controle do status das atividades.
+As tarefas serão organizadas em quadros Kanban, com colunas como: To Do, In Progress, Review, e Done.
+GitHub Issues:
+
+Servirá para detalhar os requisitos, bugs, e atividades específicas, garantindo rastreabilidade.
+Repositório GitHub:
+
+Centralizará o código-fonte, garantindo versionamento e colaboração eficiente entre os desenvolvedores.
+Comunicação:
+
+O grupo utilizará ferramentas como Slack e Microsoft Teams para comunicação em tempo real, além de Google Meet para as cerimônias do Scrum.
+Ferramentas de Design e Prototipagem:
+
+Para o design da interface, ferramentas como Figma sera usadas.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
+| Quadro Kanban         | Github             | [https://github.com/XXXXXXX](https://github.com/orgs/ICEI-PUC-Minas-PCO-SI/projects/69) | Centralização e organização do projeto no próprio repositório. |
+| Repositório de código | GitHub             | [https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-eficienciafinanceira) |               |
+| Protótipo Interativo  | MavelApp ou Figma  | N/A  |               |
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Planilhas e Gráficos  | Google Planilhas   | N/A  |               |
+| EAP / WBS             | |  | |
+| Cronograma do Projeto | | [Cronograma](artefatos/ProjetoEfienciaFinanceira.pdf)  | |
+| Matriz RACI           | | [Matriz RACI](artefatos/MatrizRACI.pdf) | |
 
 ```diff
 + Tarefa 03:
