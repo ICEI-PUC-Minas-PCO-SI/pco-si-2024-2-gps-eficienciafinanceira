@@ -131,14 +131,7 @@ Impacto Mensurável: O impacto do aplicativo será medido pela melhora relatada 
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> [Termo de Abertura do Projeto assinado ](artefatos/TermodeAberturadeProjeto-1.pdf)
 
 ## Estimativa de Custo
 
