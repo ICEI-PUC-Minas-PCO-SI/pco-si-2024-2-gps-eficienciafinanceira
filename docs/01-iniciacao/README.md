@@ -184,8 +184,16 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001| Permitir que o usuário registre receitas e despesas	 | ALTA | 
+|RE-002| Permitir a categorização de transações financeiras   | ALTA |
+|RE-003| Oferecer funcionalidade para definir metas financeiras  | MÉDIA |
+|RE-004| Emitir relatórios gráficos mensais de receitas e despesas   | MÉDIA |
+|RE-005| Integrar com contas bancárias para sincronização automática | ALTA |
+|RE-006| Permitir o acompanhamento de saldo disponível em tempo real   | BAIXA |
+|RE-007| Enviar alertas de vencimento de contas e limite de orçamento   | MÉDIA |
+|RE-008| Disponibilizar exportação de dados em formatos como CSV ou PDF   | MÉDIA |
+|RE-009| 	Permitir a configuração de notificações personalizadas  | BAIXA |
+|RE-010| Oferecer um tutorial inicial para novos usuários   | BAIXA |
 
 ### Requisitos Não Funcionais
 
@@ -195,8 +203,11 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA     | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3 segundos | BAIXA     | 
+|RNF-003| O banco de dados deve suportar no mínimo 100.000 transações por usuário | MEDIA     | 
+|RNF-004| O sistema deve garantir a segurança dos dados com criptografia AES | ALTA     | 
+|RNF-005| Deve ser compatível com os principais navegadores e sistemas operacionais | BAIXA     | 
 
 
 ### Restrições
@@ -207,8 +218,11 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001| O aplicativo deve ser desenvolvido apenas para plataformas Android e iOS	 | ALTA | 
+|RE-002| O armazenamento de dados deve ser feito em nuvem, sem suporte para armazenamento local   | ALTA |
+|RE-003| O sistema deve estar disponível em pelo menos dois idiomas (português e inglês) | MÉDIA |
+|RE-004| O orçamento do projeto não pode exceder 25% o valor estabelecido   | ALTA  |
+|RE-005| A entrega final deve ser concluída em um prazo máximo de 6 meses   | MÉDIA |
 
 
 ### Contra-Escopo
@@ -221,6 +235,9 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 |------|-------------------------------------|
 |CE-001| Treinamento de modelo de LLM        |
 |CE-002| Pesquisa de viabilidade do mercado. |
+|CE-003| Desenvolvimento de funcionalidades exclusivas para plataformas específicas (ex.: apenas iOS ou Android). |
+|CE-004| Integração com sistemas financeiros internacionais ou moedas estrangeiras. |
+|CE-005| Suporte para dispositivos e sistemas operacionais obsoletos. |
 
 ### Condições para início do Projeto
 
@@ -228,9 +245,11 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto                              | 
 |------|----------------------------------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços.                           |
-|CI-002| Aprovação do orçamento e prazo                                             |
-|CI-003| Disponibilidade dos recursos de desenvolvimento e infraestrutura necessária| 
+|CI-001| Assinatura de contrato de prestação de serviços com fornecedores e equipe. |
+|CI-002| Aprovação formal do orçamento e cronograma definidos. |
+|CI-003| Disponibilidade confirmada de recursos humanos e infraestrutura técnica.| 
+|CI-004| Acesso autorizado às APIs bancárias para integrar os sistemas financeiros.| 
+|CI-005| Definição e alinhamento dos requisitos funcionais e não funcionais com stakeholders.| 
 
 ## Marcos Agendados e Entregas
 
@@ -240,12 +259,12 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-1  | Conclusão da etapa de Definição e Planejamento Inicial. |
+|M-2  | Mockups e protótipos validados na etapa de Configuração e Prototipagem.|
+|M-3  |Funcionalidade básica de gestão de despesas e receitas implementada. |
+|M-4  |Relatórios automáticos e alertas personalizados entregues. |
+|M-5  |Testes de refinamento e segurança concluídos.  |
+|M-6  |Lançamento do aplicativo e entrega final ao público. |
 
 ```diff
 + Tarefa 02
@@ -261,25 +280,40 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 # Metodologia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+O desenvolvimento do Projeto EF - Eficiência Financeira será conduzido utilizando práticas de metodologias ágeis, especificamente o Framework Scrum, para garantir flexibilidade, colaboração, e entregas incrementais ao longo do ciclo de vida do projeto.
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Processo de Trabalho
+Estrutura do Scrum:
+
+Papéis:
+
+Scrum Master: Responsável por facilitar as cerimônias, remover impedimentos e assegurar que a equipe siga os princípios ágeis.
+Product Owner (PO): Representado pela gerente do projeto, Thais Alves Silva, que priorizará o backlog e representará as necessidades dos stakeholders.
+Time de Desenvolvimento: Equipe multifuncional responsável por implementar as funcionalidades definidas no backlog.
+
+Cerimônias:
+Planejamento da Sprint: Reuniões para definir os objetivos e as tarefas da sprint com base no backlog priorizado.
+Daily Scrum: Reuniões diárias para acompanhar o progresso e discutir impedimentos.
+Revisão da Sprint: Demonstração dos incrementos desenvolvidos para o Product Owner e stakeholders.
+Retrospectiva: Análise do que funcionou bem e o que pode ser melhorado no próximo ciclo.
+
+Artefatos:
+Product Backlog: Lista priorizada das funcionalidades e requisitos, documentada no GitHub Projetcs.
+Sprint Backlog: Seleção das tarefas planejadas para cada sprint.
+Incrementos: Entregáveis funcionais ao final de cada sprint.
+Divisão de Papéis e Tarefas:
+As tarefas serão divididas com base nas especializações técnicas e na capacidade de cada membro.
+A equipe será autogerenciada, garantindo autonomia no desenvolvimento das atividades.
+Ciclo de Trabalho:
+
+As sprints terão duração de duas semanas, com entregas incrementais para permitir ajustes contínuos com base no feedback dos stakeholders.
 
 ## Divisão de Papéis
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+As tarefas serão divididas com base nas especializações técnicas e na capacidade de cada membro.
+A equipe será autogerenciada, garantindo autonomia no desenvolvimento das atividades.
 
 ## Ferramentas
 
