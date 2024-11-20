@@ -25,7 +25,7 @@
 > Atualize a lista de atas de reunião do projeto, com as atas entregues semanalmente na disciplina.
 > Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
 
-1. [2024-02-23 - Ata de Reunião](artefatos/ata-reuniao_2024-02-23.pdf)
-2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
+1. [2024-09-08 - Ata de Reunião](artefatos/AtaReuniao2024-09-08.pdf)
+2. ....
 3. ....
 
