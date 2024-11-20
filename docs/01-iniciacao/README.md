@@ -94,8 +94,7 @@ Impacto Mensurável: O impacto do aplicativo será medido pela melhora relatada 
 |-----------------|-----------------|---------------|-------------|-------------|
 | Derick Lucas                |Gestão de dado                 | Gerenciamento e segurança dos dados              |derick@eficienciafinanceira.com             |31 980350419             |
 |  Matheus Valentin               |Desenvolvedor                 | Desenvolvedor do produto              | matheus@eficienciafinanceira.com            | 31 980321411 |
-|Lucas Ferreira                 |Arquiteto de software                 |Planejamento e evolução da capacidade de
-manutenção do software                |lucas@eficienciafinanceira.com             | 31 973504112  |
+|Lucas Ferreira                 |Arquiteto de software                 |Planejamento e evolução da capacidade de manutenção do software   |lucas@eficienciafinanceira.com | 31 973504112  |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
