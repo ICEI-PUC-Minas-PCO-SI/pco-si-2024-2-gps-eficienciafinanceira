@@ -101,24 +101,18 @@ Impacto Mensurável: O impacto do aplicativo será medido pela melhora relatada 
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
+
 
 ## Avaliação das Partes Interessadas
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+| Derick Lucas|Garantir a integridade e segurança dos dados. |Alta. A qualidade e segurança dos dados afetam diretamente o funcionamento do produto.|Alto. A má gestão dos dados pode comprometer a operação do sistema |Precisa apoiar o desenvolvimento e a segurança |               |
+|Matheus Valentin |Desenvolver o produto conforme as especificações e prazos. |Moderada. Executa as funcionalidades necessárias, mas necessita que outro membros definam os requisitos e orientações.  |Alto. A eficiência e qualidade de código são cruciais para o sucesso do projeto |Apoia a equipe de desenvolvimento e precisa de apoio do gestor e arquiteto para fazer suas tarefas |               |
+|Lucas Ferreira |Garantir que a arquitetura do software permita a manutenção, o crescimento e a evolução contínua do produto |Alta.Define as tecnologias com qual o software será construído |Alto. Uma boa arquitetura é essencial para a durabilidade e eficiência do software | Precisa dar apoio aos outros membros para garantir que as
+decisões sobre a arquitetura sejam implementadas corretamente |               |
+|Thaís Alves |Gerenciar o produto e a equipe, garantindo que os objetivos sejam alcançados. |Alta. Gerencia as atividades e toma decisões para o progresso do projeto |Alto. Tem o poder de decisão final e garante que o projeto esteja no caminho certo |Precisa do apoio de toda a equipe para implementar decisões e conseguir manter os prazos de entrega |               |
+|Vinicius Célio |Atender às demandas dos clientes e fornecer feedback para o time de desenvolvimento |Moderada. Suas observações influenciam diretamente as prioridades de desenvolvimento |Moderado.Atua como ponte entre os clientes e o time de desenvolvimento, garantindo que as necessidades dos clientes sejam atendidas |Precisa do apoio do time de desenvolvimento e do gestor para atender e resolver as demandas dos clientes |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
