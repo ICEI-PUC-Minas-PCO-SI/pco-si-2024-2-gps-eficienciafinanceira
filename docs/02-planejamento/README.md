@@ -88,16 +88,13 @@ Matriz de Responsabilidades (RACI) - Editável = https://docs.google.com/documen
 
 ......  DESCREVA EM LINHAS GERAIS O CRONOGRAMA DO SEU PROJETO AQUI ......
 
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
+O cronograma do Projeto EF - Eficiência Financeira foi elaborado para detalhar todas as atividades, marcos e eventos essenciais ao longo do ciclo de vida do projeto, utilizando técnicas de análise de rede (como PERT/CPM) e estimativas de duração. O cronograma está estruturado de forma a otimizar recursos, antecipar potenciais atrasos e permitir ajustes contínuos, garantindo que o projeto seja concluído dentro do prazo estabelecido.
 
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
-
+- [Cronograma - Editável](artefatos/cronogramaP.mpp)
+- [Orçamento do Projeto - Editável](artefatos/orcamentoP.mpp)
 ```diff
 + Tarefa 07:
 + Fim da seção a ser atualizada.
@@ -122,7 +119,7 @@ Matriz de Responsabilidades (RACI) - Editável = https://docs.google.com/documen
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Orçamento do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+- [Orçamento do Projeto - Editável](artefatos/orcamentoP.mpp)
 
 ```diff
 + Tarefa 08:
