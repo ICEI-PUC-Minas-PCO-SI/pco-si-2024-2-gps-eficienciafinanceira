@@ -96,8 +96,7 @@ Impacto Mensurável: O impacto do aplicativo será medido pela melhora relatada 
 |  Matheus Valentin               |Desenvolvedor                 | Desenvolvedor do produto              | matheus@eficienciafinanceira.com            | 31 980321411 |
 |Lucas Ferreira                 |Arquiteto de software                 |Planejamento e evolução da capacidade de manutenção do software   |lucas@eficienciafinanceira.com | 31 973504112  |
 |Thaís Alves |Gerente |Gerenciamento do produto e da equipe |thais@eficienciafinanceira.com |31 923450458 |
-|Vinicius Célio |Suporte técnico |Atender as demandadas do cliente e analisar
-para o time de desenvolvimento |vinicius@eficienciafinanceira.com | 31 990332219 |
+|Vinicius Célio |Suporte técnico |Atender as demandadas do cliente e analisar para o time de desenvolvimento |vinicius@eficienciafinanceira.com | 31 990332219 |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
