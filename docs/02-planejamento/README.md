@@ -146,8 +146,8 @@ O orçamento do Projeto EF - Eficiência Financeira foi elaborado com base nas e
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
 |Documentação|Revisão |31/10/2024 |Derick Rodrigues|Conformidade de acordo com arquitetura |07/11/2024 |Correção com melhorias |Gerente de Projeto |Equipe de documentação|
 |Prototipagem de design |Teste de Usabilidade|05/11/2024|Vinicius Célio|Tempo de clareza e respostas|11/11/2024|Ajuste de telas e fluxos|Gerente de Ux/Ui |Equipe de ux/ui|
-|Código fonte |             |             |             |             |               |                   |                 |                |
-|Aplicativo Final |             |             |             |             |               |                   |                 |                |
+|Código fonte |Refatoramento e otimização|01/11/2024|Matheus Valentin |Padrões e segurança|17/11/2024|Correção de bugs|Gerente de TI|Desenvolvedor|
+|Aplicativo Final |Teste de Desempenho|20/11/2024|Lucas|Velocidade e compatibilidade |21/11/2024 |Otimização de performance|Thais|Desenvolvedor|
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 
@@ -155,8 +155,8 @@ O orçamento do Projeto EF - Eficiência Financeira foi elaborado com base nas e
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
+|ISO/IEC 25010|Padrão internacional para avaliação da qualidade de software, abordando características como funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade e portabilidade|
+|IEEE 829|Padrão para documentação de testes, incluindo planos de teste, casos de teste e relatórios de teste|
 |            |             |
 |            |             |
 |            |             |
@@ -165,17 +165,17 @@ O orçamento do Projeto EF - Eficiência Financeira foi elaborado com base nas e
 
 | Ambiente   | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+|Ferramentas de Teste|Ferramentas automatizadas para testes de desempenho e usabilidade, como JMeter e Selenium|
+|Ambiente de Desenvolvimento|Utilização de ambientes de desenvolvimento integrados (IDE) como Visual Studio Code, além de plataformas de integração contínua como Jenkins para garantir builds de alta qualidade|
+|Ambiente de Testes| Ambiente emulado com múltiplas plataformas (Android e iOS) para garantir compatibilidade e funcionalidade consistente.|
 |            |             |
 
 ### Equipe de Qualidade
 
 | Nome       | Responsabilidade | 
 |------------|------------------|
-|            |                  |
-|            |                  |
+|Automação de Testes|Implementar e manter testes automatizados para aumentar a eficiência e cobertura dos testes.|
+|Execução de Testes|Realizar testes manuais e automatizados, documentando os resultados e identificando bugs e problemas|
 |            |                  |
 |            |                  |
 |            |                  |
@@ -184,8 +184,8 @@ O orçamento do Projeto EF - Eficiência Financeira foi elaborado com base nas e
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
+|Teste Ágil|Integrado ao desenvolvimento ágil, com iterações rápidas e feedback constante, garantindo que a qualidade seja parte do ciclo de vida do desenvolvimento|
+|Behavior Driven Development (BDD)|Abordagem que envolve a colaboração entre desenvolvedores e partes interessadas para definir testes baseados no comportamento esperado do software|
 |            |             |
 
 ```diff
