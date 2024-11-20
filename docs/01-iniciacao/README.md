@@ -43,40 +43,41 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+Gerenciar finanças pessoais é uma tarefa desafiadora para muitas pessoas, devido à falta de ferramentas acessíveis e integradas que possibilitem um controle efetivo de receitas, despesas, dívidas e objetivos financeiros. Essa dificuldade é agravada por fatores como a ausência de hábitos organizacionais, a complexidade na visualização do fluxo de caixa e a falta de conhecimento financeiro básico.
+Além disso, muitos usuários enfrentam obstáculos ao tentar consolidar informações provenientes de diferentes fontes, como contas bancárias, cartões de crédito e despesas manuais. Isso resulta em decisões financeiras mal informadas, dificuldades para poupar e alcançar metas financeiras e, em casos mais graves, endividamento crescente.
+O problema é acentuado pela falta de aplicativos que sejam intuitivos, personalizáveis e capazes de atender às necessidades individuais, especialmente para usuários com diferentes níveis de conhecimento financeiro. A fragmentação das informações financeiras e a complexidade de algumas ferramentas disponíveis também dificultam o uso por pessoas leigas ou com pouco tempo disponível.
+Esse contexto demanda uma solução eficaz, que centralize e simplifique o gerenciamento financeiro, promovendo hábitos saudáveis e decisões conscientes.
 
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
+Objetivo Geral:
+Desenvolver um aplicativo intuitivo e integrado para gerenciar finanças pessoais, permitindo que os usuários acompanhem receitas, despesas e metas financeiras de forma prática e eficiente.
+
+Objetivos Específicos:
+1. Implementar um sistema centralizado para registrar e categorizar receitas, despesas e transações financeiras, facilitando a análise do fluxo de caixa.
+2. Criar uma funcionalidade para definir e monitorar metas financeiras, como poupança, pagamento de dívidas ou aquisição de bens.
+3. Desenvolver relatórios gráficos e personalizáveis que auxiliem os usuários na identificação de hábitos de consumo e oportunidades de economia.
+4. Integrar o aplicativo com contas bancárias e cartões de crédito para atualização automática de transações, reduzindo a necessidade de entrada manual de dados.
 
 
 ## Justificativa
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+O gerenciamento financeiro eficiente é fundamental para promover o bem-estar financeiro das pessoas, ajudando-as a tomar decisões conscientes, reduzir dívidas e alcançar objetivos pessoais. No entanto, a ausência de ferramentas acessíveis e integradas dificulta essa tarefa para uma parcela significativa da população. Este projeto se justifica pela necessidade de suprir essa lacuna, oferecendo uma solução tecnológica prática e intuitiva que democratize o acesso à gestão financeira.
+A construção do aplicativo trará benefícios como o aumento da organização financeira pessoal, o desenvolvimento de hábitos financeiros saudáveis e a facilitação do planejamento de curto e longo prazo. Além disso, permitirá que os usuários tenham maior controle sobre seus recursos e diminuam os riscos de endividamento, contribuindo para sua qualidade de vida e segurança financeira.
+O impacto esperado abrange tanto os indivíduos que utilizarão o aplicativo quanto a comunidade em geral, promovendo uma cultura de educação financeira. Empresas e instituições financeiras também podem se beneficiar indiretamente com clientes mais bem informados e organizados.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+Aderência dos Usuários: O aplicativo deverá alcançar uma taxa mínima de adoção pelos usuários-alvo nos primeiros meses após o lançamento, medida pelo número de downloads ativos e feedbacks positivos.
+Satisfação do Usuário: A satisfação será avaliada por meio de pesquisas e avaliações nas lojas de aplicativos, buscando atingir uma nota média de 4,5 ou superior.
+Entrega dentro do Prazo e Orçamento: O projeto será considerado bem-sucedido se for concluído dentro do cronograma e do orçamento definidos no planejamento inicial.
+Funcionalidades Operacionais: O aplicativo deverá atender aos requisitos previamente estabelecidos, como categorização de despesas, integração bancária e geração de relatórios financeiros.
+Impacto Mensurável: O impacto do aplicativo será medido pela melhora relatada pelos usuários na organização de suas finanças e pelo alcance de metas financeiras. 
 
 # Partes Interessadas
 
@@ -91,7 +92,7 @@
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
+| Derick Lucas                |Gestão de dado                 | Gerenciamento e segurança dos dados              |derick@eficienciafinanceira.com             |31 980350419             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
