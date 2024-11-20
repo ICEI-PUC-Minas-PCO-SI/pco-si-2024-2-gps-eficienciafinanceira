@@ -312,7 +312,7 @@ As sprints terão duração de duas semanas, com entregas incrementais para perm
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-As tarefas serão divididas com base nas especializações técnicas e na capacidade de cada membro.
+> As tarefas serão divididas com base nas especializações técnicas e na capacidade de cada membro.
 A equipe será autogerenciada, garantindo autonomia no desenvolvimento das atividades.
 
 ## Ferramentas
