@@ -18,10 +18,7 @@ Este projeto tem como objetivo desenvolver um sistema de gestão financeira que 
 
 ## Gerenciamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
+O projeto Eficiência Financeira visa criar uma plataforma intuitiva e acessível para facilitar o gerenciamento financeiro pessoal dos usuários. A principal missão do sistema é centralizar a gestão de contas, despesas e metas financeiras, proporcionando uma visão clara e simplificada das finanças. A plataforma busca atender indivíduos que buscam controlar melhor seu orçamento, acompanhar seus gastos e atingir objetivos financeiros de forma mais eficaz.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
@@ -42,9 +39,3 @@ Fases do Gerenciamento do Projeto:
 
 [![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
-## Informações Adicionais
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
