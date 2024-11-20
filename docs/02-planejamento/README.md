@@ -144,10 +144,10 @@ O orçamento do Projeto EF - Eficiência Financeira foi elaborado com base nas e
 
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|Documentação|Revisão |31/10/2024 |Derick Rodrigues|Conformidade de acordo com arquitetura |07/11/2024 |Gerente de Projeto |Equipe de documentação |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+|Documentação|Revisão |31/10/2024 |Derick Rodrigues|Conformidade de acordo com arquitetura |07/11/2024 |Correção com melhorias |Gerente de Projeto |Equipe de documentação|
+|Prototipagem de design |             |             |             |             |               |                   |                 |                |
+|Código fonte |             |             |             |             |               |                   |                 |                |
+|Código fonte |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 
