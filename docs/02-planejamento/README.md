@@ -200,15 +200,13 @@ O orçamento do Projeto EF - Eficiência Financeira foi elaborado com base nas e
 
 ## Plano de Aquisição
 
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
+O Plano de Aquisições para o Projeto EF - Eficiência Financeira define o processo de aquisição dos bens e serviços necessários à execução do projeto, com foco na obtenção de recursos de forma eficiente e conforme as necessidades do projeto. Através deste plano, serão identificadas as necessidades de recursos, selecionados os fornecedores adequados, e formalizados os contratos com os fornecedores escolhidos. O gerenciamento do relacionamento com os fornecedores também será acompanhado ao longo do ciclo de vida do projeto, visando garantir o cumprimento de prazos, qualidade e custos controlados.
 
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+- Especificação Produto Aquisição - Editável
+- https://docs.google.com/document/d/139U4Bkt6b2aDW-UNx_vMyR7kKdObKWmA/edit?usp=sharing&ouid=106709120206238400068&rtpof=true&sd=true
 
 
 ```diff
