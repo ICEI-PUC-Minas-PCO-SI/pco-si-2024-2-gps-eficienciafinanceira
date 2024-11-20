@@ -228,23 +228,24 @@ O Plano de Aquisições para o Projeto EF - Eficiência Financeira define o proc
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
 >
 > Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
+- Plano de Gerenciamento de Comunicação - Editável
+- https://docs.google.com/document/d/1KbIn-Uu1ViN3uGLjC_gZFBy6E3qKxIhsYHiGMptzLRQ/edit?usp=sharing
 
 ### Plano de Comunicação do Projeto
 
 | Entregável                         | Público-Alvo | Método de Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|-----------------------|-------------|-------------|
-| Ata de reunião                     |              |                       |             |             |
-| Declaração de escopo               |              |                       |             |             |
-| WBS                                |              |                       |             |             |
-| Dicionário da WBS                  |              |                       |             |             |
-| Cronograma                         |              |                       |             |             |
-| Lista de Riscos                    |              |                       |             |             |
-| Plano de qualidade                 |              |                       |             |             |
-| Plano de projeto                   |              |                       |             |             |
-| Relatório de Progresso             |              |                       |             |             |
-| Relatório de Aderência ao Processo |              |                       |             |             |
-| Checklists de Inspeção             |              |                       |             |             |
+| Ata de reunião                     |Equipe |E-mail|Após reuniões|Derick|
+| Declaração de escopo               |Stakeholders|Reunião virtual |Início do projeto|Lucas|
+| WBS                                |Equipe|Documento compartilhado|Inicial e revisões|Thais Alves|
+| Dicionário da WBS                  |Equipe|Documento compartilhado|Inicial e revisões|Thais Alves|
+| Cronograma                         |Stakeholders|E-mail|Mensal|Derick|
+| Lista de Riscos                    |Equipe|Documento compartilhado|Semanal|Thais Alves|
+| Plano de qualidade                 |Stakeholders|Documento compartilhado|Mensal|Vinícius|
+| Plano de projeto                   |Stakeholders|Reunião presencial|Início do projeto e revisões|Thais Alves|
+| Relatório de Progresso             |Stakeholders|E-mail|Semanal|Vinícius|
+| Relatório de Aderência ao Processo |Equipe|Documento compartilhado|Semanal|Lucas|
+| Checklists de Inspeção             |Equipe|Documento compartilhado|Conforme necessidade|Matheus|
 |                                    |              |                       |             |             |
 |                                    |              |                       |             |             |
 |                                    |              |                       |             |             |
@@ -257,26 +258,35 @@ O Plano de Aquisições para o Projeto EF - Eficiência Financeira define o proc
 
 ### Plano de Gerência de Configuração
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
+Indique:
+ - Ferramentas utilizadas no projeto -  GitHub, para controle de versões e distribuição de artefatos. https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-eficienciafinanceira/tree/main
+ - Papéis: 
+Gerente de Projeto: Responsável por aprovar e documentar as versões oficiais do software e documentos.
+Desenvolvedores: Lucas (Arquiteto), Matheus (Desenvolvedor), para integração de atualizações de código.
+Administrador de Bancos de Dados: Derick, para ajustes nas versões relacionadas ao banco de dados.
+
+- Princípios gerais: 
+Controle de Versão: Todas as versões e atualizações do software devem ser registradas e controladas pelo GitHub, com um histórico detalhado das alterações realizadas.
+Aprovação de Versões: Cada versão significativa do sistema deverá ser revisada e aprovada pelo Gerente de Configuração antes de ser liberada para o ambiente de produção.
+Documentação Consistente: Todas as mudanças devem ser acompanhadas por documentação atualizada, incluindo o escopo da alteração, impacto, e a descrição técnica, garantindo que a equipe tenha acesso às informações mais recentes.
+Comunicação de Alterações: Qualquer mudança importante deverá ser comunicada a toda a equipe por meio de relatórios semanais, garantindo que todos os membros estejam alinhados sobre o estado atual do projeto.
+Backup e Recuperação: Deve-se manter um backup semanal dos dados e versões, assegurando a recuperação do sistema em caso de falhas críticas
+
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- - [Ferramenta 01](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-eficienciafinanceira/tree/main)
+  - [Ferramenta 02](https://canvas.pucminas.br/)
+  - [Ferramenta 03](https://docs.google.com/document/u/0/)
 - Papéis:
-- - ...
-  - ...
-  - ...
+- - Versionamento dos documentos
+  - Envio do projeto
+  - Documento compartilhado
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- - Transparência
+  - Comunicação Contínua
+  - Iteração e Feedback
+  - Eficiência
 
 ```diff
 + Tarefa 11:
