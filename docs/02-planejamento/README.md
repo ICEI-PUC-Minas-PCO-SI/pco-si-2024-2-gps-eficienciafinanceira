@@ -30,11 +30,13 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
+Concepção e Planejamento: Definir os objetivos do aplicativo, identificar as necessidades dos usuários e criar o escopo inicial. 
+Design e Prototipagem: Criar a interface visual e o fluxo do aplicativo com foco na usabilidade e experiência do usuário.
+Desenvolvimento: Implementar as funcionalidades e integrar as ferramentas necessárias, criando a primeira versão funcional.
+Testes (QA): Garantir que o aplicativo funcione corretamente, corrigindo bugs e melhorando o desempenho.
+Lançamento e Implementação: Publicar o aplicativo e disponibilizá-lo para o público. 
+Operação e Suporte: Manter e atualizar o aplicativo, corrigindo problemas e adicionando melhorias.
+Encerramento: Revisar os resultados do projeto e documentar as lições aprendidas.
 
 # Estrutura Analítica do Projeto
 
