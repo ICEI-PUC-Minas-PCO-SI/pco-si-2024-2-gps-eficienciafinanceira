@@ -319,12 +319,12 @@ Backup e Recuperação: Deve-se manter um backup semanal dos dados e versões, a
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
 |Segurança de Dados   |Exposição de dados bancários devido a vulnerabilidades no sistema.|Médio|Alto|Implementar criptografia de ponta a ponta e autenticação multifatorial.|Realizar auditorias regulares de segurança e um plano de resposta a incidentes.|
 |Integridade das Informações|Dados incorretos ou duplicados devido à sincronização inadequada com fontes bancárias.|Médio|Médio|Verificar processos de sincronização e implementar validações de integridade.|Corrigir manualmente inconsistências e alertar o usuário para verificar os dados.|
-|Usabilidade|Dificuldade de navegação para usuários menos familiarizados com tecnologia.|Alto |Médio|                    |                                     |
-|Conformidade Regulamentar|Falta de conformidade com as leis de proteção de dados bancários.|Médio|Alto|                            |                                     |
-|Técnico |Falhas técnicas no desenvolvimento do aplicativo, como bugs críticos.|Alto |Alto |                             |                                     |
-|Cronograma|Atrasos no desenvolvimento devido à falta de recursos ou mudanças de requisitos.|Médio|Alto |                                     |                                     |
-|Financeiro|Estouro de orçamento devido a gastos não previstos.|Médio |Médio|                            |                                     |
-|Desempenho do Sistema|Lentidão no carregamento dos dados bancários devido a limitações de rede ou processamento.|Baixo|Baixo |              |                                     |
+|Usabilidade|Dificuldade de navegação para usuários menos familiarizados com tecnologia.|Alto |Médio|Realizar testes de usabilidade e ajustar a interface para ser intuitiva.|Oferecer tutoriais e suporte ao usuário para ajudar com dúvidas.|
+|Conformidade Regulamentar|Falta de conformidade com as leis de proteção de dados bancários.|Médio|Alto|Aderir às normas LGPD e outras leis bancárias.|Consultoria com especialistas e revisão periódica de conformidade.|
+|Técnico |Falhas técnicas no desenvolvimento do aplicativo, como bugs críticos.|Alto |Alto |Revisão de código, testes automatizados e integração contínua.|Implementar correções rápidas e realizar atualizações emergenciais|
+|Cronograma|Atrasos no desenvolvimento devido à falta de recursos ou mudanças de requisitos.|Médio|Alto|Planejamento detalhado com buffers de tempo e priorização de funcionalidades.|Reduzir escopo de funcionalidades ou alocar mais recursos temporários.|
+|Financeiro|Estouro de orçamento devido a gastos não previstos.|Médio|Médio|Monitoramento contínuo de despesas e controle rigoroso de orçamento.|Buscar financiamento adicional ou reduzir custos não essenciais.|
+|Desempenho do Sistema|Lentidão no carregamento dos dados bancários devido a limitações de rede ou processamento.|Baixo|Baixo|Implementar cache local para dados frequentemente acessados e otimizar consultas.|Notificar o usuário em caso de lentidão e sugerir uma atualização manual dos dados.|
 
 
 > Indique:
