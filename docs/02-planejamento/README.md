@@ -317,7 +317,8 @@ Backup e Recuperação: Deve-se manter um backup semanal dos dados e versões, a
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|Segurança de Dados   |                    |               |               |                                      |                                     |
+|Segurança de Dados   |Exposição de dados bancários devido
+a vulnerabilidades no sistema.|               |               |                                      |                                     |
 |Integridade das Informações|                    |               |               |                                      |                                     |
 |Usabilidade          |                    |               |               |                                      |                                     |
 |Conformidade Regulamentar|                    |               |               |                                      |                                     |
