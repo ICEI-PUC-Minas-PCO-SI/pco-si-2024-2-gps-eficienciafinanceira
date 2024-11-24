@@ -318,14 +318,26 @@ Backup e Recuperação: Deve-se manter um backup semanal dos dados e versões, a
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
 |Segurança de Dados   |Exposição de dados bancários devido
-a vulnerabilidades no sistema.|               |               |                                      |                                     |
-|Integridade das Informações|                    |               |               |                                      |                                     |
-|Usabilidade          |                    |               |               |                                      |                                     |
-|Conformidade Regulamentar|                    |               |               |                                      |                                     |
-|Técnico              |                    |               |               |                                      |                                     |
-|Cronograma           |                    |               |               |                                      |                                     |
-|Financeiro           |                    |               |               |                                      |                                     |
-|Desempenho do Sistema|                    |               |               |                                      |                                     |
+a vulnerabilidades no sistema.|Médio         | Alto         |Alto                                |                                     |
+|Integridade das Informações|Dados incorretos ou duplicados devido
+à sincronização inadequada com
+fontes bancárias.|Médio       |Médio        |Médio       |                                     |
+|Usabilidade          |Dificuldade de navegação para
+usuários menos familiarizados com
+tecnologia.|Alto     |Médio          |Alto                              |                                     |
+|Conformidade Regulamentar|Falta de conformidade com as leis de
+proteção de dados bancários.
+|Médio         |Alto         |Alto                            |                                     |
+|Técnico              |Falhas técnicas no desenvolvimento
+do aplicativo, como bugs críticos.|Alto        |Alto        |Alto                                |                                     |
+|Cronograma           |Atrasos no desenvolvimento devido à
+falta de recursos ou mudanças de
+requisitos.|Médio       |Alto        |Alto                                      |                                     |
+|Financeiro           |Estouro de orçamento devido a gastos
+não previstos.|Médio | Médio              |Médio                                  |                                     |
+|Desempenho do Sistema|Lentidão no carregamento dos dados
+bancários devido a limitações de rede
+ou processamento.|Baixo          |Baixo           |Baixo                               |                                     |
 
 
 > Indique:
