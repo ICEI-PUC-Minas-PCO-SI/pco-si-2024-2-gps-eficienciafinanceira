@@ -317,16 +317,15 @@ Backup e Recuperação: Deve-se manter um backup semanal dos dados e versões, a
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+|Segurança de Dados   |                    |               |               |                                      |                                     |
+|Integridade das Informações|                    |               |               |                                      |                                     |
+|Usabilidade          |                    |               |               |                                      |                                     |
+|Conformidade Regulamentar|                    |               |               |                                      |                                     |
+|Técnico              |                    |               |               |                                      |                                     |
+|Cronograma           |                    |               |               |                                      |                                     |
+|Financeiro           |                    |               |               |                                      |                                     |
+|Desempenho do Sistema|                    |               |               |                                      |                                     |
+
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
