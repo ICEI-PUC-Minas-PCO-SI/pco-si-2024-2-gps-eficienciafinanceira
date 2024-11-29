@@ -24,20 +24,24 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
-> Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
+Desenvolver um aplicativo de gestão financeira que centralize contas, despesas, investimentos e metas financeiras em uma única plataforma, oferecendo relatórios, alertas, e suporte personalizado para melhorar a saúde financeira dos usuários 
+O projeto consistiu no desenvolvimento de um aplicativo de gestão financeira chamado Eficiência Financeira, projetado para integrar dados bancários, organizar despesas e receitas, e oferecer funcionalidades avançadas como o acompanhamento de metas financeiras e análise de relatórios. Durante o desenvolvimento, foram realizadas atividades como levantamento de requisitos, criação de protótipos, desenvolvimento do sistema, testes de usabilidade, e implementação de segurança para proteger os dados dos usuários. 
 
 
 # Lições Aprendidas 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
-> Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
-> A documentação dessas lições aprendidas abrange não apenas os aspectos técnicos, mas também os relacionados ao gerenciamento de equipes, comunicação, riscos, entre outros. 
-> Ao compartilhar essas experiências, as organizações têm a oportunidade de evitar a repetição de erros, replicar práticas bem-sucedidas e fortalecer a capacidade de gerenciamento de projetos ao longo do tempo. 
-
+Documentação do Projeto: Incluindo a descrição do objetivo, escopo, requisitos, e metodologia utilizada para o desenvolvimento da solução. 
+Planejamento do Projeto: Estrutura analítica do projeto com as etapas definidas para alcançar os objetivos, garantindo organização e controle durante a execução. 
+Roteiro de Teste: Detalhamento dos testes realizados no sistema, abordando funcionalidade, desempenho, e usabilidade, para garantir a qualidade do aplicativo. 
+Cronograma: Planejamento temporal das atividades do projeto, indicando os prazos para cada etapa e entrega. 
+Estimativa de Gastos: Relatório com os custos envolvidos no projeto, incluindo recursos tecnológicos, horas de trabalho e despesas adicionais. 
+Tecnológicas: A elaboração de um roteiro de testes detalhado foi crucial para identificar potenciais problemas e entender melhor os desafios de qualidade no desenvolvimento de sistemas. 
+Gerenciais: A importância de um cronograma bem definido ficou evidente para evitar atrasos e garantir a organização das atividades. 
+Acadêmicas: O planejamento detalhado do projeto reforçou a relevância de aplicar metodologias estruturadas para alcançar resultados consistentes. 
+Pessoais: A comunicação entre os membros da equipe foi essencial para esclarecer dúvidas e alinhar as expectativas durante o processo. 
+De Processo: Documentar cada etapa do projeto (como cronogramas e estimativas de gastos) proporcionou um aprendizado valioso sobre como estruturar projetos futuros mesmo sem a entrega de um produto final. 
 # Auto-avaliação
 
 ......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
